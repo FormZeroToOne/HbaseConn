@@ -1,0 +1,2 @@
+# HbaseConn
+Hbase Connection Java
