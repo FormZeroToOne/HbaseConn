@@ -1,0 +1,11 @@
+E:\project\HbaseConn\src\main\java\com\hbase\pojo\PrjDesc.java
+E:\project\HbaseConn\src\main\java\com\hbase\dao\CreateTable.java
+E:\project\HbaseConn\src\main\java\com\hbase\dao\insertHb.java
+E:\project\HbaseConn\src\main\java\com\hbase\dao\ReadGeo.java
+E:\project\HbaseConn\src\main\java\com\hbase\dao\readTable.java
+E:\project\HbaseConn\src\main\java\com\hbase\dao\GetHb.java
+E:\project\HbaseConn\src\main\java\com\hbase\dao\listTable.java
+E:\project\HbaseConn\src\main\java\com\hbase\dao\DeleteHb.java
+E:\project\HbaseConn\src\main\java\com\hbase\dao\scanHb.java
+E:\project\HbaseConn\src\main\java\com\hbase\Test\testHb.java
+E:\project\HbaseConn\src\main\java\com\hbase\tool\connHb.java
